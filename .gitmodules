@@ -1,0 +1,3 @@
+[submodule "path/in/your/repo"]
+	path = path/in/your/repo
+	url = https://github.com/Ryuge-Kisaki/Deep-Hashing-with-Semantic-Hash-Centers-for-Image-Retrieval.git
